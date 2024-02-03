@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pritamworld/w4_3133_nodejs_express_mongodb_template.git"
+    "url": ""
   },
   "keywords": [
     "mongoose",
@@ -21,11 +21,12 @@
   "author": "Pritesh Patel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pritamworld/w4_3133_nodejs_express_mongodb_template/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/pritamworld/w4_3133_nodejs_express_mongodb_template#readme",
+  "homepage": "",
   "dependencies": {
-    "express": "^4.17.2",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
     "mongoose": "^6.2.0"
   },
   "devDependencies": {
